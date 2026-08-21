@@ -1,0 +1,2 @@
+# Nirman-Setu-Core
+Eligible citizens, especially in rural areas, miss out on government welfare schemes because they are never proactively notified about relevant schemes, government resolutions (GRs) remain complex and inaccessible in their regional language, and the application process across multiple disconnected portals is too difficult for them to complete on their own — resulting in only 12-25% of eligible beneficiaries actually availing the schemes meant for them.
